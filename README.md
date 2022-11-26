@@ -9,7 +9,7 @@ Kelas : TI.22.B.1<br>
 
 Pada halaman ini (Tugas Pertemuan-9-Module Praktikum 5) Dosen memberi tugas sebagai berikut : <br>
 * Soal Latihan yang ada pada module praktikum 5<br>
-[Latihan-soal1](https://user-images.githubusercontent.com/115475098/204073795-0d01daa7-47ca-4162-9b8d-4c5d7fd37384.png)<br>
+(https://user-images.githubusercontent.com/115475098/204073795-0d01daa7-47ca-4162-9b8d-4c5d7fd37384.png)<br>
 * Berikut adalah program syntax yang saya buat untuk memenuhi latihan module 5<br>
 
 ``` python
@@ -210,17 +210,17 @@ while True:
 ```
 * Berikut ini adalah hasil run dari syntax diatas akan diuraikan satu persatu<br>
 * *Lihat data sebelum data ditambahkan*<br>
-![Hasil2(1)](https://user-images.githubusercontent.com/115475098/204076103-e5fad82c-b4f1-47ba-b870-610a2579ca28.png)<br>
+(https://user-images.githubusercontent.com/115475098/204076103-e5fad82c-b4f1-47ba-b870-610a2579ca28.png)<br>
 * *Tambah data*<br>
-![Hasil3](https://user-images.githubusercontent.com/115475098/204076151-54783b07-4509-4ea6-baa9-915198a87294.png)<br>
+(https://user-images.githubusercontent.com/115475098/204076151-54783b07-4509-4ea6-baa9-915198a87294.png)<br>
 * *Lihat setelah tambah data*<br>
-![Hasil4](https://user-images.githubusercontent.com/115475098/204076168-594c1067-b1e7-4dc8-8f76-c3e50651fa51.png)<br>
+(https://user-images.githubusercontent.com/115475098/204076168-594c1067-b1e7-4dc8-8f76-c3e50651fa51.png)<br>
 * *Ubah data, dan pada gambar dibawah adalah hasil dari perubahan data*<br>
-![Hasil6](https://user-images.githubusercontent.com/115475098/204076235-5f3e3977-bed8-49c4-8cd5-c4cb937fb3db.png)<br>
+(https://user-images.githubusercontent.com/115475098/204076235-5f3e3977-bed8-49c4-8cd5-c4cb937fb3db.png)<br>
 * *Mencari data yang diinputkan*<br>
-![Hasil5](https://user-images.githubusercontent.com/115475098/204076242-4ad1f47b-a62b-4f89-968e-449ba6876316.png)<br>
+(https://user-images.githubusercontent.com/115475098/204076242-4ad1f47b-a62b-4f89-968e-449ba6876316.png)<br>
 * *Menghapus data yang diinputkan*<br>
-![Hasil7](https://user-images.githubusercontent.com/115475098/204076274-7e46c728-d599-499f-a172-5b829ed45821.png)<br>
+(https://user-images.githubusercontent.com/115475098/204076274-7e46c728-d599-499f-a172-5b829ed45821.png)<br>
 * *Keluar dari program aplikasi*<br>
-![Hasil8](https://user-images.githubusercontent.com/115475098/204076283-791d21da-53f0-4aa5-8e46-2f205e414fde.png)<br>
+(https://user-images.githubusercontent.com/115475098/204076283-791d21da-53f0-4aa5-8e46-2f205e414fde.png)<br>
 ### Berikut langkah langkah untuk tugas Praktikum5, Terimakasih...
