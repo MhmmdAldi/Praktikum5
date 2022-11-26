@@ -9,7 +9,7 @@ Kelas : TI.22.B.1<br>
 
 Pada halaman ini (Tugas Pertemuan-9-Module Praktikum 5) Dosen memberi tugas sebagai berikut : <br>
 * Soal Latihan yang ada pada module praktikum 5<br>
-![Latihan1](Pict/Latihan-soal1.png)
+!![Latihan-soal1](https://user-images.githubusercontent.com/115475098/204073795-0d01daa7-47ca-4162-9b8d-4c5d7fd37384.png)
 <br>
 * Berikut adalah program syntax yang saya buat untuk memenuhi latihan module 5<br>
 
@@ -55,13 +55,13 @@ print(isi)
 print("===================================================================")
 ```
 * Ini adalah hasil run dari syntax latihan module 5 yang saya buat <br>
-![Hasil1](Pict/Hasil1.png)
+!![Uploading Hasil1.png…]()
 
 * Soal Tugas Praktikum yang ada pada module praktikum 5 adalah sebagai berikut<br>
-![Latihan2](Pict/Latihan-soal2.png)<br>
+!![Uploading Latihan-soal2.png…]<br>
 * Berikut hasil yang diinginkan pada soal praktikum  5<br>
-![Latihansoal3](Pict/Latihan-soal3.png)<br>
-![Latihansoal4](Pict/Latihan-soal4.png)<br>
+!![Latihan-soal3](https://user-images.githubusercontent.com/115475098/204073899-426fd8e2-bb1f-4ba1-ae45-661bd37ff75a.png)<br>
+!![Latihan-soal4](https://user-images.githubusercontent.com/115475098/204073915-ddac61bd-7296-4ea5-a523-946db9add1b2.png)<br>
 
 * Setelah memahami materi saya membuat syntax sebagai berikut untuk memenuhi tugas praktikum module 5 : <br>
 ```python
