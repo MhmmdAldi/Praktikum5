@@ -1,4 +1,4 @@
-# Pertemuan10-praktikum5
+# praktikum5-bahasa pemrograman
 
 Repositiry ini dibuat untuk memenuhi tugas Bahasa Pemrograman (Module Praktikum 5)<br><br>
 Nama : Muhammad Aldiansyah <br>
@@ -9,8 +9,7 @@ Kelas : TI.22.B.1<br>
 
 Pada halaman ini (Tugas Pertemuan-9-Module Praktikum 5) Dosen memberi tugas sebagai berikut : <br>
 * Soal Latihan yang ada pada module praktikum 5<br>
-!![Latihan-soal1](https://user-images.githubusercontent.com/115475098/204073795-0d01daa7-47ca-4162-9b8d-4c5d7fd37384.png)
-<br>
+[Latihan-soal1](https://user-images.githubusercontent.com/115475098/204073795-0d01daa7-47ca-4162-9b8d-4c5d7fd37384.png)<br>
 * Berikut adalah program syntax yang saya buat untuk memenuhi latihan module 5<br>
 
 ``` python
@@ -55,13 +54,13 @@ print(isi)
 print("===================================================================")
 ```
 * Ini adalah hasil run dari syntax latihan module 5 yang saya buat <br>
-!![Uploading Hasil1.png…]()
+![Hasil1](https://user-images.githubusercontent.com/115475098/204076297-c506e1b0-c792-41bf-a680-7079acd73edc.png)<br>
 
 * Soal Tugas Praktikum yang ada pada module praktikum 5 adalah sebagai berikut<br>
-!![Uploading Latihan-soal2.png…]<br>
+[Latihan-soal2](https://user-images.githubusercontent.com/115475098/204075814-7f7afc93-b64a-4b48-a7a4-d9c7d7500a70.png)<br>
 * Berikut hasil yang diinginkan pada soal praktikum  5<br>
-!![Latihan-soal3](https://user-images.githubusercontent.com/115475098/204073899-426fd8e2-bb1f-4ba1-ae45-661bd37ff75a.png)<br>
-!![Latihan-soal4](https://user-images.githubusercontent.com/115475098/204073915-ddac61bd-7296-4ea5-a523-946db9add1b2.png)<br>
+[Latihan-soal3](https://user-images.githubusercontent.com/115475098/204073899-426fd8e2-bb1f-4ba1-ae45-661bd37ff75a.png)<br>
+[Latihan-soal4](https://user-images.githubusercontent.com/115475098/204073915-ddac61bd-7296-4ea5-a523-946db9add1b2.png)<br>
 
 * Setelah memahami materi saya membuat syntax sebagai berikut untuk memenuhi tugas praktikum module 5 : <br>
 ```python
@@ -211,18 +210,17 @@ while True:
 ```
 * Berikut ini adalah hasil run dari syntax diatas akan diuraikan satu persatu<br>
 * *Lihat data sebelum data ditambahkan*<br>
-![Lihat](Pict/Hasil2(1).png)<br>
+![Hasil2(1)](https://user-images.githubusercontent.com/115475098/204076103-e5fad82c-b4f1-47ba-b870-610a2579ca28.png)<br>
 * *Tambah data*<br>
-![Lihat Tambah](Pict/Hasil3.png)<br>
+![Hasil3](https://user-images.githubusercontent.com/115475098/204076151-54783b07-4509-4ea6-baa9-915198a87294.png)<br>
 * *Lihat setelah tambah data*<br>
-![lihat Hasil Tambah](Pict/Hasil4.png)<br>
+![Hasil4](https://user-images.githubusercontent.com/115475098/204076168-594c1067-b1e7-4dc8-8f76-c3e50651fa51.png)<br>
 * *Ubah data, dan pada gambar dibawah adalah hasil dari perubahan data*<br>
-![lihat-ubah](Pict/Hasil6.png)<br>
+![Hasil6](https://user-images.githubusercontent.com/115475098/204076235-5f3e3977-bed8-49c4-8cd5-c4cb937fb3db.png)<br>
 * *Mencari data yang diinputkan*<br>
-![cari-data](Pict/Hasil5.png)<br>
+![Hasil5](https://user-images.githubusercontent.com/115475098/204076242-4ad1f47b-a62b-4f89-968e-449ba6876316.png)<br>
 * *Menghapus data yang diinputkan*<br>
-![hapus-data](Pict/Hasil7.png)<br>
+![Hasil7](https://user-images.githubusercontent.com/115475098/204076274-7e46c728-d599-499f-a172-5b829ed45821.png)<br>
 * *Keluar dari program aplikasi*<br>
-![keluar](Pict/Hasil8.png)
-<br>
+![Hasil8](https://user-images.githubusercontent.com/115475098/204076283-791d21da-53f0-4aa5-8e46-2f205e414fde.png)<br>
 ### Berikut langkah langkah untuk tugas Praktikum5, Terimakasih...
