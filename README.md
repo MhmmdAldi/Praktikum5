@@ -7,7 +7,7 @@ Dosen : Agung Nugroho, M.Kom<br>
 Matkul : Bahasa Pemrograman<br>
 Kelas : TI.22.B.1<br>
 
-Pada halaman ini (Tugas Pertemuan-9-Module Praktikum 5) Dosen memberi tugas sebagai berikut : <br>
+Pada halaman ini (Bahasa Pemrograman-Module Praktikum 5) Dosen memberi tugas sebagai berikut : <br>
 * Soal Latihan yang ada pada module praktikum 5<br>
 ![Latihan-soal1](https://user-images.githubusercontent.com/115475098/204083133-32f95612-cebb-4740-b060-0830b5cac022.png)<br>
 * Berikut adalah program syntax yang saya buat untuk memenuhi latihan module 5<br>
